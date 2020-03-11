@@ -1,2 +1,2 @@
-# ECG-arrhythmia-classification-using-CNN
+# Classifying ElectroCardioGraphy (ECG) arrhythmias using Convolutional Neural Network
 ldkfvlndv
